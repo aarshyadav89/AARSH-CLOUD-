@@ -1,6 +1,6 @@
 # AARSH-CLOUD-dictionary
 student = {
-    "name": "Rahul",
+    "name": "Aarsh",
     "age": 20,
     "course": "BCA"
 }
